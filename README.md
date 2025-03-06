@@ -1,0 +1,1 @@
+For given number *k*, finds the minimum number of Fibonacci numbers whose sum or difference equals *k*. Input is in the form of .txt files containing numbers, output is in the form of .txt files containing results. Additionally the input files are backed up in another folder and a pdf report is generated using the fpdf2 library.
